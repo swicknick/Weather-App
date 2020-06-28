@@ -6,23 +6,20 @@
     display: block;
     margin: 5px auto;
 }
-
 .TextInput:focus {
     outline: none;
     border-color: #719ECE;
     box-shadow: 0 0 10px rgb(50, 100, 153);
 }
-
 .Radio {
     font-size: small;
 }
-
 .Button {
     display: block;
     margin: 10px auto;
     padding: .5rem;
     font-size: 1em;
-    background: rgb(0, 88, 139);
+    background: rgb(0, 76, 139);
     border-radius: 5px;
     color: white;
     cursor: pointer;
